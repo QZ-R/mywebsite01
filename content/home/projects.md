@@ -26,8 +26,12 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "DARCLIFE"
+    tag = "DARCLIFE"
+      
+  [[content.filter_button]]
+    name = "Isotope Tracer"
+    tag = "Isotope Tracer"
   
   [[content.filter_button]]
     name = "Other"
