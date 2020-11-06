@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/archaea23lipids
 slides: example
-summary: An example of using the in-built project page.
+summary: To use isotope tracer to study the new biomass production and its impact on reshaping the OM pool in sediments.
 tags:
 - Secondary production
 title: Secondary production in marine sediments
