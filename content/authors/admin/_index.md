@@ -11,7 +11,7 @@ education:
   - course: BSc in Applied Chemistry
     institution: China University of Geosciences
     year: 2012
-email: ""
+email: "qzzhu@marum.de"
 highlight_name: false
 interests:
 - Biogeochemistry
