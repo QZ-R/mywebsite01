@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: MARUM
   url: https://www.marum.de/en/index.html
-role: Postdoc of Organic Geochemistry
+role: Postdoc
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,4 +46,4 @@ user_groups:
 Qing-Zeng Zhu is a Postdoc of organic geochemistry at the [Hinrichslab](https://www.marum.de/en/about-us/HinrichsLab-Home.html). His research interests include stable isotope probing (SIP), organic matter (OM) fate in marine sediments, and geomicrobiology. He is currently working on a project about secondary production and its role in reshaping the OM pool after the deposition from primary production in the ocean.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
