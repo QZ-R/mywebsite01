@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Secondary production | Qing-Zeng Zhu</title>
+    <link>/tag/secondary-production/</link>
+      <atom:link href="/tag/secondary-production/index.xml" rel="self" type="application/rss+xml" />
+    <description>Secondary production</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Qing-Zeng, 2020. This website is built with [blogdown](https://github.com/rstudio/blogdown) and [Academic theme](https://wowchemy.com/) of [Hugo](https://gohugo.io/).</copyright><lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu856875c335bb566eef8afab3ea80367a_30050_512x512_fill_lanczos_center_2.png</url>
+      <title>Secondary production</title>
+      <link>/tag/secondary-production/</link>
+    </image>
+    
+    <item>
+      <title>Secondary production in marine sediments</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Secondary production in sediments may have been underestimated before. This process dominated by bacterial activities plays an pivotal role in reshaping the organic matter composition after sedimentation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

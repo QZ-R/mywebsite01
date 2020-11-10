@@ -4,9 +4,9 @@ if (file.exists("~/.Rprofile")) {
 
 options(
   servr.daemon = TRUE,
-  blogdown.author = "YOUR NAME",
+  blogdown.author = "Qing-Zeng Zhu",
   blogdown.ext = ".Rmd",
-  blogdown.subdir = "post",
+  blogdown.subdir = "blog",
   blogdown.yaml.empty = TRUE,
   blogdown.new_bundle = TRUE,
   blogdown.title_case = TRUE
