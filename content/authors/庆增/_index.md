@@ -1,6 +1,6 @@
 ---
 authors:
-- 吳恩達
+- 朱庆增
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 education:
   courses:
