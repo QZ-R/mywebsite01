@@ -18,8 +18,3 @@ This is my first time to create a website with the help of package blogdown and 
 
 ![Be strong like a big tree](/blog/2020-11-09-creating-a-website/1.JPG)
 
-
-```{r}
-plot(cars)
-```
-
