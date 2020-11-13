@@ -24,7 +24,9 @@ projects: []
 plot(cars)
 ```
 
-
+- [x] Write math example
+- [x] Write diagram example
+- [ ] Do something else
 
 
 
