@@ -29,4 +29,9 @@ plot(cars)
 - [ ] Do something else
 
 
+`r htmltools::HTML("{{< tweet 1250447868130922499 >}}")`
+
+`r htmltools::HTML("{{< youtube cMN5IYgGZ3E >}}")`
+
+
 

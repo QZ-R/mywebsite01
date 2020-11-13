@@ -15,10 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "atom"
+  icon_pack = "fas"
+  name = "Stable isotope probing"
+  description = "90%"
+  
+[[feature]]
+  icon = "vials"
+  icon_pack = "fas"
+  name = "Lipid and amino acid analysis"
+  description = "90%"
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "60%"
+  description = "80%"
   
 [[feature]]
   icon = "chart-line"
@@ -26,11 +38,6 @@ subtitle = ""
   name = "Statistics"
   description = "60%"  
   
-# [[feature]]
-#   icon = "camera-retro"
-#   icon_pack = "fas"
-#   name = "Photography"
-#   description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
