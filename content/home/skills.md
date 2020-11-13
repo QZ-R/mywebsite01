@@ -32,11 +32,11 @@ subtitle = ""
   name = "R"
   description = "80%"
   
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "60%"  
+# [[feature]]
+#   icon = "chart-line"
+#   icon_pack = "fas"
+#   name = "Statistics"
+#   description = "60%"  
   
 
 # Uncomment to use emoji icons.
