@@ -7,7 +7,7 @@ categories: []
 tags: []
 summary: ''
 authors: []
-external_link: 'https://www.marum.de/en/The-Ocean-Floor.html'
+external_link: ''
 image:
   caption: ''
   focal_point: ''
@@ -21,3 +21,5 @@ slides: ''
 
 
 This project is under the [clusters-of-excellence](https://www.research-in-germany.org/en/research-landscape/excellence-universities/clusters-of-excellence.html) and it aims to embark on a new chapter in ocean-floor research by "**quantifying exchange processes at this significant boundary layer and their roles in the Earth system**"
+
+Click [HERE](https://www.marum.de/en/The-Ocean-Floor.html) if you want to get more information.
