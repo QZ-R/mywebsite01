@@ -14,7 +14,7 @@ publication: 'Journal of Geophysical Research: Atmospheres'
 publication_short: ''
 abstract: ''
 summary: 'This is publication of my master thesis'
-featured: no
+featured: true
 url_pdf: ~
 url_code: ~
 url_dataset: ~
