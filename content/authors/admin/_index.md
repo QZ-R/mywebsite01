@@ -1,5 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include geomicrobiology, stable isotope probing, and biomarker.
 education:
   courses:
   - course: PhD in Organic Geochemistry
