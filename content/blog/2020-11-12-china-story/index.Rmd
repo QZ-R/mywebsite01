@@ -1,5 +1,5 @@
 ---
-title: China Story
+title: How to tell a good story of China
 author: Qing-Zeng Zhu
 date: '2020-11-12'
 slug: china-story
@@ -18,7 +18,7 @@ image:
 projects: []
 ---
 
-
+[see this post](../creating-a-website/)
 
 ```{r}
 plot(cars)
