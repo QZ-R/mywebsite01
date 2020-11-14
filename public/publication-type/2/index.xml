@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Qing-Zeng Zhu | 朱庆增</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Qing-Zeng, 2020. This website is built with [blogdown](https://github.com/rstudio/blogdown) and [Academic theme](https://wowchemy.com/) of [Hugo](https://gohugo.io/).</copyright><lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu856875c335bb566eef8afab3ea80367a_30050_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Drought Cycles over the Last 8,200 Years Recorded in Maar Lake Twintaung, Myanmar</title>
+      <link>/publication/drought-cycles-over-the-last-8-200-years-recorded-in-maar-lake-twintaung-myanmar/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/drought-cycles-over-the-last-8-200-years-recorded-in-maar-lake-twintaung-myanmar/</guid>
+      <description>
+&lt;link href=&#34;index_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;index_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JD032225&#34;&gt;Drought cycles over the last 8,200 years recorded in Maar Lake Twintaung, Myanmar&lt;/a&gt;
+(2020). Chu, G., &lt;strong&gt;Zhu, Q-Z&lt;/strong&gt;., Sun, Q., Su, Y., Xie, M., Zaw, T., Sein, K. Journal of Geophysical Research: Atmospheres, 125, e2019JD032225&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

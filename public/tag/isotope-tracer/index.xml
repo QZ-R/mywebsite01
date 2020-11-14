@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isotope Tracer | Qing-Zeng Zhu | 朱庆增</title>
+    <link>/tag/isotope-tracer/</link>
+      <atom:link href="/tag/isotope-tracer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Isotope Tracer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Qing-Zeng, 2020. This website is built with [blogdown](https://github.com/rstudio/blogdown) and [Academic theme](https://wowchemy.com/) of [Hugo](https://gohugo.io/).</copyright><lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu856875c335bb566eef8afab3ea80367a_30050_512x512_fill_lanczos_center_2.png</url>
+      <title>Isotope Tracer</title>
+      <link>/tag/isotope-tracer/</link>
+    </image>
+    
+    <item>
+      <title>Secondary Production in Marine Sediments</title>
+      <link>/project/secondary-production-in-marine-sediments/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/secondary-production-in-marine-sediments/</guid>
+      <description>
+&lt;link href=&#34;index_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;index_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Secondary production in sediments may have been underestimated before. This process dominated by bacterial activities plays an pivotal role in reshaping the organic matter composition after sedimentation.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/project/2020-11-13-secondary-production-in-marine-sediments/secondary%20production.png&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
