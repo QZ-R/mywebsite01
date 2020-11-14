@@ -17,11 +17,11 @@ image:
   preview_only: no
 projects: []
 ---
-[tidyverse](https://www.tidyverse.org/) is a somehow for me a revolutionary package. I started from learning base R by taking some courses in Uni. However, the more I learned, the more I felt confused because there were always two solutions to one R question in stack overflow. Since then I realized the existence of tidyverse, especially from dplyr, and decided without hesitation switching totally to be a tidyverse person
+[Tidyverse](https://www.tidyverse.org/) is a revolutionary package. I started from learning base R by taking some courses in Uni two years ago. However, the more I learned, the more I felt confused because there were always two solutions to one R question in stack overflow. Since then I realized the existence of tidyverse, especially from dplyr, and gradually switched to be a tidyverse person.
 
 This is the tidyverse family:
 ![Tidyverse family](/blog/2020-11-14-r-packages-to-learn/tidyverse.png)
-Here is the learning material from Dr. Olivier Gimenez:
+Here is the learning material from [Dr. Olivier Gimenez](https://oliviergimenez.github.io/):
 
 `r htmltools::HTML("{{< tweet 1319338464983289856 >}}")`
 
@@ -43,9 +43,9 @@ Here is the check and todo list of my R journey (keep on updating):
 - [ ] lubricate
 - [ ] glue
 
-[tidymodels](https://www.tidymodels.org/) is definitely my next package to learn after all the packages above are checked.
+[Tidymodels](https://www.tidymodels.org/) is definitely my next package to learn after all the packages above are checked.
 
-By the way, I create this website not only to show my information in academics, but also to share some insights or knowledge I have acquired, for example, creating a website for free [see my post](../creating-a-website/)
+By the way, I create this website not only to show my information in academics, but also to share some insights or knowledge I have acquired, for example, creating a website for free [Here](../creating-a-website/)
 
 
 

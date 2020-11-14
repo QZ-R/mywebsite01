@@ -14,7 +14,7 @@ image:
   focal_point: ''
   preview_only: no
 ---
-This is my first time to create a website with the help of package blogdown and Hugo. It was not as hard as I have imagined in the beginning, but as time going on, I found it necessary to know a little bit about all the underlying technologies like the Hugo templating language, HTML, CSS, and JavaScript. I will keep updating if I am making a progress and keep in touch!
+This is my first time to create a website with the help of R package [blogdown](https://bookdown.org/yihui/blogdown/) and [Hugo](https://gohugo.io/). It was not as hard as I have imagined in the beginning, but as time going on, I found it necessary to know a little bit about all the underlying technologies like HTML, CSS, Hugo templating language, and JavaScript. I will keep updating if I am making a progress and keep in touch!
 
 ![Be strong like a big tree](/blog/2020-11-09-creating-a-website/1.JPG)
 
