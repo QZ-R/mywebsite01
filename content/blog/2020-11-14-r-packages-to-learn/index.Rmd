@@ -20,7 +20,9 @@ projects: []
 [Tidyverse](https://www.tidyverse.org/) is a revolutionary package. I started from learning base R by taking some courses in Uni two years ago. However, the more I learned, the more I felt confused because there were always two solutions to one R question in stack overflow. Since then I realized the existence of tidyverse, especially from dplyr, and gradually switched to be a tidyverse person.
 
 This is the tidyverse family:
-![Tidyverse family](/blog/2020-11-14-r-packages-to-learn/tidyverse.png)
+
+![](/blog/2020-11-14-r-packages-to-learn/tidyverse.png)
+
 Here is the learning material from [Dr. Olivier Gimenez](https://oliviergimenez.github.io/):
 
 `r htmltools::HTML("{{< tweet 1319338464983289856 >}}")`
