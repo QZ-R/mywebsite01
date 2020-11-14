@@ -1,5 +1,5 @@
 ---
-bio: My research interests include geomicrobiology, stable isotope probing, and biomarker.
+bio: My research interests include geomicrobiology, stable isotope probing, biomarker, and R statistics.
 education:
   courses:
   - course: PhD in Organic Geochemistry
