@@ -45,7 +45,7 @@ Here is the check and todo list of my R journey (keep on updating):
 
 [tidymodels](https://www.tidymodels.org/) is definitely my next package to learn after all the packages above are checked.
 
-
+By the way, I create this website not only to show my information in academics, but also to share some insights or knowledge I have acquired, for example, creating a website for free [see my post](../creating-a-website/)
 
 
 
