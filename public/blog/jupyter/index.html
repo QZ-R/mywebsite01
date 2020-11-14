@@ -54,11 +54,13 @@
 
   
   
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
 
   
   
   
-  <meta name="theme-color" content="hsl(339, 90%, 68%)">
+  <meta name="theme-color" content="#06805E">
   
 
   
@@ -82,8 +84,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" disabled>
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
@@ -225,6 +227,12 @@
   
   
   
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Yanone Kaffeesatz:400,400i%7CRoboto:300,300i%7CRoboto:300,300i%7CRoboto+Mono&display=swap">
+    
+  
 
   
   
@@ -266,9 +274,9 @@
   <meta property="twitter:site" content="@archaea23lipids">
   <meta property="twitter:creator" content="@archaea23lipids">
   
-  <meta property="og:site_name" content="Qing-Zeng Zhu">
+  <meta property="og:site_name" content="Qing-Zeng Zhu | 朱庆增">
   <meta property="og:url" content="/blog/jupyter/">
-  <meta property="og:title" content="Display Jupyter Notebooks with Academic | Qing-Zeng Zhu">
+  <meta property="og:title" content="Display Jupyter Notebooks with Academic | Qing-Zeng Zhu | 朱庆增">
   <meta property="og:description" content="Learn how to blog in Academic using Jupyter notebooks"><meta property="og:image" content="/blog/jupyter/featured.png">
   <meta property="twitter:image" content="/blog/jupyter/featured.png"><meta property="og:locale" content="en-us">
   
@@ -294,12 +302,12 @@
 
 
 
-  <title>Display Jupyter Notebooks with Academic | Qing-Zeng Zhu</title>
+  <title>Display Jupyter Notebooks with Academic | Qing-Zeng Zhu | 朱庆增</title>
 
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="dark ">
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class=" ">
 
   
   
@@ -307,7 +315,7 @@
     <script>window.wcDarkLightEnabled = true;</script>
   
   
-    <script>const isSiteThemeDark = true;</script>
+    <script>const isSiteThemeDark = false;</script>
   
   
   <script src="/js/load-theme.js"></script>
@@ -362,7 +370,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Qing-Zeng Zhu</a>
+      <a class="navbar-brand" href="/">Qing-Zeng Zhu | 朱庆增</a>
     </div>
     
 
@@ -375,7 +383,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Qing-Zeng Zhu</a>
+      <a class="navbar-brand" href="/">Qing-Zeng Zhu | 朱庆增</a>
     </div>
     
 
@@ -392,8 +400,6 @@
         
         
         
-          
-        
 
         
 
@@ -404,21 +410,11 @@
 
         
           
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
           
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#hero"><span>Home</span></a>
+          <a class="nav-link " href="/"><span>Home</span></a>
         </li>
 
         
@@ -697,6 +693,9 @@
   
   
   
+  <span class="middot-divider"></span>
+  <a href="/blog/jupyter/#disqus_thread"></a>
+  
 
   
   
@@ -733,7 +732,12 @@
   <div class="article-container">
 
     <div class="article-style">
-      <pre><code class="language-python">from IPython.core.display import Image
+      
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/cMN5IYgGZ3E" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<pre><code class="language-python">from IPython.core.display import Image
 Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
 </code></pre>
 <p><img src="./index_1_0.png" alt="png"></p>
@@ -897,7 +901,7 @@ date: 2019-09-01
     <div class="media-body">
       <h5 class="card-title"><a href="/">Qing-Zeng Zhu</a></h5>
       <h6 class="card-subtitle">Postdoc</h6>
-      <p class="card-text">My research interests include distributed robotics, mobile computing and programmable matter.</p>
+      <p class="card-text">My research interests include geomicrobiology, stable isotope probing, biomarker, and R statistics.</p>
       <ul class="network-icon" aria-hidden="true">
   
     
@@ -979,6 +983,34 @@ date: 2019-09-01
 
 
 
+
+<section id="comments">
+  
+    
+<div id="disqus_thread"></div>
+<script>
+  let disqus_config = function () {
+    
+    
+    
+  };
+  (function() {
+    if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+      document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+      return;
+    }
+    var d = document, s = d.createElement('script'); s.async = true;
+    s.src = 'https://' + "https-qingzeng-rbind-io" + '.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+  
+</section>
 
 
 
@@ -1082,6 +1114,8 @@ date: 2019-09-01
     
 
     
+    
+    <script id="dsq-count-scr" src="https://https-qingzeng-rbind-io.disqus.com/count.js" async></script>
     
 
     

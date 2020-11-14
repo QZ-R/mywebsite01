@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Qing-Zeng Zhu</title>
+    <title>Projects | Qing-Zeng Zhu | 朱庆增</title>
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Qing-Zeng, 2020. This website is built with [blogdown](https://github.com/rstudio/blogdown) and [Academic theme](https://wowchemy.com/) of [Hugo](https://gohugo.io/).</copyright><lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Qing-Zeng, 2020. This website is built with [blogdown](https://github.com/rstudio/blogdown) and [Academic theme](https://wowchemy.com/) of [Hugo](https://gohugo.io/).</copyright><lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu856875c335bb566eef8afab3ea80367a_30050_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -13,34 +13,48 @@
     </image>
     
     <item>
-      <title>DARCLIFE</title>
-      <link>/project/darclife/</link>
-      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/project/darclife/</guid>
+      <title>Secondary Production in Marine Sediments</title>
+      <link>/project/secondary-production-in-marine-sediments/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/secondary-production-in-marine-sediments/</guid>
       <description>
-&lt;link href=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;index_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;index_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;p&gt;DARCLIFE (Deep subsurface Archaea: carbon cycle, life strategies, and role in sedimentary ecosystems) project was on its last year when I enrolled to be a PhD student end of 2015.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Secondary production in marine sediments</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Secondary production in sediments may have been underestimated before. This process dominated by bacterial activities plays an pivotal role in reshaping the organic matter composition after sedimentation.&lt;/p&gt;
+&lt;p&gt;Secondary production in sediments may have been underestimated before. This process dominated by bacterial activities plays an pivotal role in reshaping the organic matter composition after sedimentation.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/project/2020-11-13-secondary-production-in-marine-sediments/secondary%20production.png&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Ocean Floor - Earth’s Uncharted Interface</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
-      <description></description>
+      <link>/project/the-ocean-floor-earth-s-uncharted-interface/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/the-ocean-floor-earth-s-uncharted-interface/</guid>
+      <description>
+&lt;link href=&#34;index_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;index_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;This project is under the &lt;a href=&#34;https://www.research-in-germany.org/en/research-landscape/excellence-universities/clusters-of-excellence.html&#34;&gt;clusters-of-excellence&lt;/a&gt; and it aims to embark on a new chapter in ocean-floor research by “&lt;strong&gt;quantifying exchange processes at this significant boundary layer and their roles in the Earth system&lt;/strong&gt;”&lt;/p&gt;
+&lt;p&gt;Click &lt;a href=&#34;https://www.marum.de/en/The-Ocean-Floor.html&#34;&gt;HERE&lt;/a&gt; if you want to get more information.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DARCLIFE</title>
+      <link>/project/darclife/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/darclife/</guid>
+      <description>
+&lt;link href=&#34;index_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;index_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;DARCLIFE (Deep subsurface Archaea: carbon cycle, life strategies, and role in sedimentary ecosystems) aims to &lt;strong&gt;study benthic archaea, their carbon cycle and life strategies in the deep subseafloor&lt;/strong&gt;. It is a fruitful project which involves an interdisciplinary team of scientists from the fields of biogeochemistry, earth sciences, and microbiology. DARCLIFE started in April 2010 and is funded for five years through an Advanced Grant of the European Research Council. Even though it was finished 5 years ago, new finding benefited from this project has been continuing until today. I joined the project when I enrolled as a PhD student end of 2015.&lt;/p&gt;
+&lt;p&gt;Click &lt;a href=&#34;https://www.marum.de/en/about-us/HinrichsLab-DARCLIFE.html&#34;&gt;HERE&lt;/a&gt; if you want to get more information.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

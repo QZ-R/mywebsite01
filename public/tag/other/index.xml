@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other | Qing-Zeng Zhu | 朱庆增</title>
+    <link>/tag/other/</link>
+      <atom:link href="/tag/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>Other</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Qing-Zeng, 2020. This website is built with [blogdown](https://github.com/rstudio/blogdown) and [Academic theme](https://wowchemy.com/) of [Hugo](https://gohugo.io/).</copyright><lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu856875c335bb566eef8afab3ea80367a_30050_512x512_fill_lanczos_center_2.png</url>
+      <title>Other</title>
+      <link>/tag/other/</link>
+    </image>
+    
+    <item>
+      <title>The Ocean Floor - Earth’s Uncharted Interface</title>
+      <link>/project/the-ocean-floor-earth-s-uncharted-interface/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/the-ocean-floor-earth-s-uncharted-interface/</guid>
+      <description>
+&lt;link href=&#34;index_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;index_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;This project is under the &lt;a href=&#34;https://www.research-in-germany.org/en/research-landscape/excellence-universities/clusters-of-excellence.html&#34;&gt;clusters-of-excellence&lt;/a&gt; and it aims to embark on a new chapter in ocean-floor research by “&lt;strong&gt;quantifying exchange processes at this significant boundary layer and their roles in the Earth system&lt;/strong&gt;”&lt;/p&gt;
+&lt;p&gt;Click &lt;a href=&#34;https://www.marum.de/en/The-Ocean-Floor.html&#34;&gt;HERE&lt;/a&gt; if you want to get more information.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

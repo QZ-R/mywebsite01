@@ -1,9 +1,9 @@
 {
-  "name": "Qing-Zeng Zhu",
-  "short_name": "Qing-Zeng Zhu",
+  "name": "Qing-Zeng Zhu | 朱庆增",
+  "short_name": "Qing-Zeng Zhu | 朱庆增",
   "lang": "en-us",
-  "theme_color": "hsl(339, 90%, 68%)",
-  "background_color": "hsl(339, 90%, 68%)",
+  "theme_color": "#06805E",
+  "background_color": "#06805E",
   "icons": [{
     "src": "/images/icon_hu856875c335bb566eef8afab3ea80367a_30050_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
