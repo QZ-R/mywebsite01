@@ -21,7 +21,7 @@ projects: []
 
 This is the tidyverse family:
 ![Tidyverse family](/blog/2020-11-14-r-packages-to-learn/tidyverse.png)
-Here is the learning material from Olivier Gimenez:
+Here is the learning material from Dr. Olivier Gimenez:
 
 `r htmltools::HTML("{{< tweet 1319338464983289856 >}}")`
 
