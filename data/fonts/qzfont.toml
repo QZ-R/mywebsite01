@@ -2,10 +2,11 @@
 name = "qzfont"
 
 # Optional Google font URL
-google_fonts = "Lora:400,400i|Karla:400,400i,700,700i|Roboto+Mono"
+google_fonts = "Yanone Kaffeesatz:400,400i|Roboto:300,300i|Roboto:300,300i|Roboto+Mono"
 
 # Font families
-heading_font = "Lora"
-body_font = "Karla"
-nav_font = "Karla"
+heading_font = "Yanone Kaffeesatz"
+body_font = "Roboto"
+nav_font = "Roboto"
 mono_font = "Roboto Mono"
+
