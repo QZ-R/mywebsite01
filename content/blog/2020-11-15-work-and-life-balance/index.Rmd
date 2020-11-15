@@ -21,6 +21,6 @@ projects: []
 Below is the slides I prepared, hope it is working, but not
 
 ```{r echo = FALSE}
-knitr::include_url('http://qingzeng.rbind.io/slides/progress.html#1')
+knitr::include_url('http://qingzeng.rbind.io/slides/secondary-production.html#1')
 ```
 

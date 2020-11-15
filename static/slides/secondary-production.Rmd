@@ -1,0 +1,44 @@
+---
+title: "The impact of secondary production on the composition <br> of the OM in marine sediments"
+subtitle:
+author: "Qing-Zeng Zhu"
+institute: 'MARUM <br> <br> `r icon::fa("envelope")` qzzhu@marum.de'
+date: '`r Sys.Date()`'
+output:
+  xaringan::moon_reader:
+    css: ["default", "rutgers-fonts"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      ratio: "16:9"
+      countIncrementalSlides: false
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include = FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(fig.retina = 3, warning = FALSE, message = FALSE)
+library(tidyverse)
+library(DT)
+library(scales)
+library(emo)
+library(fontawesome)
+```
+
+
+# The most challenging thing in the world is not to learn fancy technologies, but control your own wild heart.
+## who knows
+
+
+`r icon::fa("twitter")` [@archaea23lipids](https://twitter.com/archaea23lipids)
+
+`r icon::fa("github")` [QZ-R](https://github.com/QZ-R)
+---
+
+
+`r htmltools::HTML("{{< tweet 1250447868130922499 >}}")`
+
+
+---
