@@ -18,9 +18,9 @@ image:
 projects: []
 ---
 
-Below is the slides I prepared, hope it is working
+Below is the slides I prepared, hope it is working, but not
 
-<!-- ```{r echo = FALSE} -->
-<!-- knitr::include_url('https://qingzeng.rbind.io/slides/work-and-life.html#1') -->
-<!-- ``` -->
+```{r echo = FALSE}
+knitr::include_url('http://qingzeng.rbind.io/slides/progress.html#1')
+```
 

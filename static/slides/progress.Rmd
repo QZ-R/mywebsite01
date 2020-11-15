@@ -1,0 +1,20 @@
+---
+title: "tt"
+subtitle: "ttt"
+author: "tttt"
+institute: ""
+date: ""
+output:
+  xaringan::moon_reader:
+    css: [default]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+ttttttt
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
