@@ -11,14 +11,13 @@ image:
   focal_point: ''
   preview_only: no
 ---
-
 Trade war, communist party, Xinjiang concentration, Covid-19, Huaiwei-5G, Tiktok, ..., When was the last time your heard something positive report of China? Have you heard about China alleviating hundreds of millions of people out of extreme poverty, showing its incredible  resilience in overcoming the effects of economic crisis, decisive implementation of rural revitalization strategy...? 
 
-Sometimes the thing is not that simple...![](/blog/2020-11-12-china-story/feasured.JPG)
+Sometimes thing is not as simple as we think...![](/blog/2020-11-12-china-story/feasured.JPG)
 
-Watch this video from Dr. Wen:
+<!-- Watch this video from Dr. Wen: -->
 
-`r htmltools::HTML("{{< youtube cMN5IYgGZ3E >}}")`
+<!-- `r htmltools::HTML("{{< youtube cMN5IYgGZ3E >}}")` -->
 
 
 
