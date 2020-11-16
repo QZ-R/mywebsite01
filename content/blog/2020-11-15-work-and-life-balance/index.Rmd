@@ -4,7 +4,7 @@ author: Qing-Zeng Zhu
 date: '2020-11-15'
 slug: work-and-life-balance
 categories: []
-tags: []
+tags: [life]
 subtitle: ''
 summary: ''
 authors: []

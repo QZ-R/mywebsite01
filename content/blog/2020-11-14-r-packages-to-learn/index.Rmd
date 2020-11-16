@@ -6,7 +6,7 @@ slug: r-packages-to-learn
 categories: []
 tags: []
 subtitle: ''
-summary: ''
+summary: 'R packages that help to bulid an easy career'
 authors: []
 lastmod: '2020-11-14T10:01:01+01:00'
 featured: no

@@ -8,6 +8,10 @@ weight = 40  # Order that this section will appear.
 title = "What I can contribute..."
 subtitle = ""
 
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
+
 # Showcase personal skills or business features.
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
