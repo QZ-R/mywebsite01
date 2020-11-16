@@ -16,7 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Welcome to my website :smile:"
+  title = ""
+  content = "非淡泊无以明志，非宁静无以致远 ---《诫子书》"
   # content = "Welcome to my website :smile:"
   align = "center"  # Choose `center`, `left`, or `right`.
 
