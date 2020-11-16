@@ -1,5 +1,5 @@
 ---
-title: Work and Life Balance
+title: Work and its Balance with Life
 author: Qing-Zeng Zhu
 date: '2020-11-15'
 slug: work-and-life-balance
@@ -18,9 +18,15 @@ image:
 projects: []
 ---
 
-Below is the slides I prepared, hope it is working, but not
+<!-- Below is the slides I prepared, hope it is working, but not -->
 
-```{r echo = FALSE}
-knitr::include_url('http://qingzeng.rbind.io/slides/secondary-production')
-```
+<!-- ```{r echo = FALSE} -->
+<!-- knitr::include_url('http://qingzeng.rbind.io/slides/secondary-production') -->
+<!-- ``` -->
+
+This topic is not new but not so many people have achieved a real balance, especially Ph.D. candidates and postdoc who are on their early career with so many uncertainties and insecurities. I sometimes make fun of myself, saying I am "new vulnerable community" and need care. With all the pressure on the shoulder, I leave myself no time to think about enjoying life. This is WRONG, and I know it more than anyone else and don't need anyone to tell me that. I am in such a situation: Many slaves are trying to produce a thing called PxxxR which is the only legal ransom to earn them freedom. At the same time, salves among themselves compete who has higher IF PxxxR and has more, because it is key to earn freedom as early as possible. I sometimes found myself not so into science anymore, but more often I felt it might be a little pity to just give up. I need more time to calm down and think very carefully about the work and its balance with life.  
+
+
+
+
 
