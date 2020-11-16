@@ -13,8 +13,6 @@ output:
       highlightLines: true
       ratio: "16:9"
       countIncrementalSlides: false
-editor_options: 
-  chunk_output_type: console
 ---
 
 ```{r setup, include = FALSE}
@@ -36,9 +34,5 @@ library(fontawesome)
 
 `r icon::fa("github")` [QZ-R](https://github.com/QZ-R)
 ---
-
-
 `r htmltools::HTML("{{< tweet 1250447868130922499 >}}")`
-
-
 ---
