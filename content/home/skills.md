@@ -22,19 +22,19 @@ subtitle = ""
   icon = "atom"
   icon_pack = "fas"
   name = "Stable isotope probing"
-  description = "90%"
+  description = ""
   
 [[feature]]
   icon = "vials"
   icon_pack = "fas"
   name = "Lipid and amino acid analysis"
-  description = "90%"
+  description = ""
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "80%"
+  name = "R and statistics"
+  description = ""
   
 # [[feature]]
 #   icon = "chart-line"

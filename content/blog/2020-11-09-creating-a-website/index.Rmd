@@ -20,7 +20,7 @@ Usefull resources:
 
 [Deniz Çivril and Clinton Merck: Making a Website with R and the Blogdown Package: Step-by-Step](https://makingwebsiteswithr.rbind.io/)
 
-[Annie Lyu: Fun blogdown in R to design a personal website by](https://annielyu.com/2020/01/12/blogdown-website/)
+[Annie Lyu: Fun blogdown in R to design a personal website](https://annielyu.com/2020/01/12/blogdown-website/)
 
 [Alison's website](https://alison.rbind.io/)
 

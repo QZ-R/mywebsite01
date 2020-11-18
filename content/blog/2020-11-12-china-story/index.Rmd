@@ -1,5 +1,5 @@
 ---
-title: Telling a good story of China
+title: Story of China
 author: Qing-Zeng Zhu
 date: '2020-11-14'
 slug: china-story
@@ -11,7 +11,7 @@ image:
   focal_point: ''
   preview_only: no
 ---
-Trade war, communist party, Xinjiang concentration, Covid-19, Huaiwei-5G, Tiktok, ..., When was your last time hearing something positive of China? Have you heard about China alleviating hundreds of millions of people out of extreme poverty, showing its incredible  resilience in overcoming the effects of economic crisis, decisive implementation of rural revitalization strategy...? Sometimes thing is not as simple as we think... People definitely need a more objective way to understand China, and its people.
+Trade war, communist party, Xinjiang concentration, Covid-19, Huaiwei-5G, Tiktok, ..., When was your last time hearing something positive of China? Have you heard about China alleviating hundreds of millions of people out of extreme poverty, showing its incredible  resilience in overcoming the effects of economic crisis, decisive implementation of rural revitalization strategy...? Sometimes thing is not as simple as we think... People (For sure including me) definitely need a more objective way to understand China, and the people living there.
 
 ![](/blog/2020-11-12-china-story/feasured.JPG)
 
