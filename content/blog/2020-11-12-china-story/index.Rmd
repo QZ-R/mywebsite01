@@ -13,11 +13,6 @@ image:
 ---
 Trade war, communist party, Xinjiang concentration, Covid-19, Huaiwei-5G, Tiktok, ..., When was your last time hearing something positive of China? Have you heard about China alleviating hundreds of millions of people out of extreme poverty, showing its incredible  resilience in overcoming the effects of economic crisis, decisive implementation of rural revitalization strategy...? Sometimes thing is not as simple as we think... People (For sure including me) definitely need a more objective way to understand China, and the people living there.
 
-![](/blog/2020-11-12-china-story/feasured.JPG)
+Here is a Youtube channel to recommend: [National Committee on U.S.-China Relations](https://www.youtube.com/channel/UC1E5-wg_F4vFWWsP-CTcP1g)
 
-<!-- Watch this video from Dr. Wen: -->
-
-<!-- `r htmltools::HTML("{{< youtube cMN5IYgGZ3E >}}")` -->
-
-
-
+`r htmltools::HTML("{{< youtube v1Nrgw37If0 >}}")`
