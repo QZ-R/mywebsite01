@@ -1,13 +1,9 @@
 ---
-title: R packages to learn
+title: R packages and tips
 author: Qing-Zeng Zhu
 date: '2020-11-14'
 slug: r-packages-to-learn
-categories: []
-tags: []
-subtitle: ''
-summary: 'R packages that help to bulid an easy career'
-authors: []
+summary: R packages that help to bulid an easy career
 lastmod: '2020-11-14T10:01:01+01:00'
 featured: no
 draft: no
@@ -15,11 +11,8 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
 ---
 
-<link href="index_files/anchor-sections/anchor-sections.css" rel="stylesheet" />
-<script src="index_files/anchor-sections/anchor-sections.js"></script>
 
 
 <p><a href="https://www.tidyverse.org/">Tidyverse</a> is a revolutionary package. I started from learning base R by taking some courses in Uni two years ago. However, the more I learned, the more I felt confused because there were always two solutions to one R question in stack overflow. Since then I realized the existence of tidyverse, especially from dplyr, and gradually switched to be a tidyverse person.</p>
@@ -28,20 +21,29 @@ projects: []
 <p>Here is the tidyverse learning material from <a href="https://oliviergimenez.github.io/">Dr. Olivier Gimenez</a>:</p>
 {{< tweet 1319338464983289856 >}}
 <p><br></p>
-<p>Here is the check and todo list of my R journey (keep on updating):</p>
+<p>Here is the check and to-do list of my R (keep on updating):</p>
 <ul>
-<li><p><input type="checkbox" disabled="" checked="" />
-tibble</p></li>
-<li><p><input type="checkbox" disabled="" checked="" />
-readr</p></li>
-<li><p><input type="checkbox" disabled="" checked="" />
-dplyr</p></li>
-<li><p><input type="checkbox" disabled="" checked="" />
-tidyr</p></li>
-<li><p><input type="checkbox" disabled="" checked="" />
-forcats</p></li>
-<li><p><input type="checkbox" disabled="" checked="" />
-ggplot2</p></li>
+<li><input type="checkbox" disabled="" checked="" />
+tibble</li>
+<li><input type="checkbox" disabled="" checked="" />
+readr</li>
+<li><input type="checkbox" disabled="" checked="" />
+dplyr</li>
+<li><input type="checkbox" disabled="" checked="" />
+tidyr</li>
+<li><input type="checkbox" disabled="" checked="" />
+forcats</li>
+<li><input type="checkbox" disabled="" checked="" />
+ggplot2 <br></li>
+</ul>
+<p>tip.1 use regular expression either on axis or legends if sub/superscript, Greek letters needed;</p>
+<pre class="r"><code>library(tidyverse)
+library(scales)
+ylab(expression(delta^{13}*&quot;C&quot;[CO2]))
+scale_color_manual(name = &quot;&quot;,
+                   values = c(&quot;#ff6600&quot;, &quot;#00b33c&quot;),
+                   labels = c(expression(with ^{13}*&quot;C lipids&quot;), expression(without ^{13}*&quot;C lipids&quot;)))</code></pre>
+<ul>
 <li><p><input type="checkbox" disabled="" />
 stringr</p></li>
 <li><p><input type="checkbox" disabled="" />
@@ -54,4 +56,4 @@ lubricate</p></li>
 glue</p></li>
 </ul>
 <p><a href="https://www.tidymodels.org/">Tidymodels</a> is definitely my next package to learn after all the packages above are checked.</p>
-<p>By the way, I create this website not only to show my information in academics, but also want to share some insights or knowledge I have acquired, for example, creating a website for free <a href="../creating-a-website/">Click here</a>.</p>
+<p>By the way, I create this website not only to show my information in academics, but also want to share some insights or knowledge I have acquired, for example, <a href="../creating-a-website/">creating a website for free</a>.</p>

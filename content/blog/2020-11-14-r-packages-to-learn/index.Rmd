@@ -1,13 +1,9 @@
 ---
-title: R packages to learn
+title: R packages and tips
 author: Qing-Zeng Zhu
 date: '2020-11-14'
 slug: r-packages-to-learn
-categories: []
-tags: []
-subtitle: ''
-summary: 'R packages that help to bulid an easy career'
-authors: []
+summary: R packages that help to bulid an easy career
 lastmod: '2020-11-14T10:01:01+01:00'
 featured: no
 draft: no
@@ -15,7 +11,6 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
 ---
 [Tidyverse](https://www.tidyverse.org/) is a revolutionary package. I started from learning base R by taking some courses in Uni two years ago. However, the more I learned, the more I felt confused because there were always two solutions to one R question in stack overflow. Since then I realized the existence of tidyverse, especially from dplyr, and gradually switched to be a tidyverse person.
 
@@ -30,14 +25,26 @@ Here is the tidyverse learning material from [Dr. Olivier Gimenez](https://olivi
 
 <br>
 
-Here is the check and todo list of my R journey (keep on updating):
+Here is the check and to-do list of my R (keep on updating):
 
 - [x] tibble
 - [x] readr
 - [x] dplyr
 - [x] tidyr
 - [x] forcats
-- [x] ggplot2
+- [x] ggplot2 <br> 
+
+tip.1 use regular expression either on axis or legends if sub/superscript, Greek letters needed;
+```{r message=FALSE, eval=FALSE}
+library(tidyverse)
+library(scales)
+ylab(expression(delta^{13}*"C"[CO2]))
+scale_color_manual(name = "",
+                   values = c("#ff6600", "#00b33c"),
+                   labels = c(expression(with ^{13}*"C lipids"), expression(without ^{13}*"C lipids")))
+```
+
+
 - [ ] stringr
 - [ ] purrr
 
@@ -47,7 +54,7 @@ Here is the check and todo list of my R journey (keep on updating):
 
 [Tidymodels](https://www.tidymodels.org/) is definitely my next package to learn after all the packages above are checked.
 
-By the way, I create this website not only to show my information in academics, but also want to share some insights or knowledge I have acquired, for example, creating a website for free [Click here](../creating-a-website/).
+By the way, I create this website not only to show my information in academics, but also want to share some insights or knowledge I have acquired, for example, [creating a website for free](../creating-a-website/).
 
 
 
