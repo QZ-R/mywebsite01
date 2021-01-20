@@ -1,7 +1,11 @@
 ---
-title: R packages and tips
+title: R packages and tips (keep updating)
 author: Qing-Zeng Zhu
 date: '2020-11-14'
+categories:
+  - education
+tags:
+  - R
 slug: r-packages-to-learn
 summary: R packages that help to bulid an easy career
 lastmod: '2020-11-14T10:01:01+01:00'
