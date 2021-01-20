@@ -1,7 +1,9 @@
 ---
-title: Creating a website
+title: Creating a website (keep updating)
 author: Qing-Zeng Zhu
 date: '2020-11-12'
+categories:
+  - education
 tags:
   - blogdown
   - hugo
