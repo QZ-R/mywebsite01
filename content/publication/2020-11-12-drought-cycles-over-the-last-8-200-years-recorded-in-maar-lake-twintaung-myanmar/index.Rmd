@@ -1,5 +1,5 @@
 ---
-title: Drought Cycles over the Last 8,200 Years Recorded in Maar Lake Twintaung, Myanmar
+title: Drought cycles over the last 8,200 years recorded in Maar Lake Twintaung, Myanmar
 author: Qing-Zeng Zhu
 date: '2020-11-12'
 slug: drought-cycles-over-the-last-8-200-years-recorded-in-maar-lake-twintaung-myanmar
@@ -34,3 +34,5 @@ image:
 projects: []
 slides: ''
 ---
+f
+
