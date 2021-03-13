@@ -1,0 +1,36 @@
+---
+title: Lipid analysis of CO2-rich subsurface aquifers suggests an autotrophy-based deep biosphere with lysolipids enriched in CPR bacteria
+author: Qing-Zeng Zhu
+date: '2020-03-13'
+slug: lipid-analysis-of-co2-rich-subsurface-aquifers-suggests-an-autotrophy-based-deep-biosphere-with-lysolipids-enriched-in-cpr-bacteria
+categories: []
+tags: [archaeal lipids]
+authors: [Probst AJ, Elling FJ, Castelle CJ, Zhu Q-Z, Elvert M, Birarda G, Holman H-YN, Lane KR, Ladd B, Ryan MC, Woyke T, Hinrichs K-U, Banfield JF]
+doi: '10.1038/s41396-020-0624-4'
+publishDate: '2020'
+publication_types:
+  - '2'
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication: 'The ISME Journal 14, 1547–1560'
+publication_short: ''
+abstract: ''
+summary: ''
+featured: true
+url_pdf: ~
+url_code: ~
+url_dataset: ~
+url_poster: ~
+url_project: ~
+url_slides: ~
+url_source: ~
+url_video: ~
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+slides: ''
+---

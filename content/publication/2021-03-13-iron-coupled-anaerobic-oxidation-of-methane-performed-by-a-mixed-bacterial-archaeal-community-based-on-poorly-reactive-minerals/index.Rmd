@@ -1,0 +1,36 @@
+---
+title: Iron-coupled anaerobic oxidation of methane performed by a mixed bacterial-archaeal community based on poorly reactive minerals
+author: Qing-Zeng Zhu
+date: '2017-03-13'
+slug: iron-coupled-anaerobic-oxidation-of-methane-performed-by-a-mixed-bacterial-archaeal-community-based-on-poorly-reactive-minerals
+categories: []
+tags: [Iron-AOM]
+authors: [Bar-Or I, Elvert M, Eckert W, Kushmaro A, Vigderovich H, Zhu Q-Z, Ben-Dov E, Sivan O]
+doi: '10.1021/acs.est.7b03126'
+publishDate: '2017'
+publication_types:
+  - '2'
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication: 'Environ. Sci. Technol. 51, 12293–12301'
+publication_short: ''
+abstract: ''
+summary: ''
+featured: true
+url_pdf: ~
+url_code: ~
+url_dataset: ~
+url_poster: ~
+url_project: ~
+url_slides: ~
+url_source: ~
+url_video: ~
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+slides: ''
+---
