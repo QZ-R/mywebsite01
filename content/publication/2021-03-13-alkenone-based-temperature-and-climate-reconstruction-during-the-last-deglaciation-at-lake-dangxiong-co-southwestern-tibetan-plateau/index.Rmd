@@ -1,0 +1,37 @@
+---
+title: Alkenone-based temperature and climate reconstruction during the last deglaciation at Lake Dangxiong Co, southwestern Tibetan Plateau
+author: Qing-Zeng Zhu
+date: '2017-03-13'
+slug: alkenone-based-temperature-and-climate-reconstruction-during-the-last-deglaciation-at-lake-dangxiong-co-southwestern-tibetan-plateau
+categories: []
+tags: [climate reconstruction]
+authors: [Ling Y, Sun Q, Zheng M, Wang H, Luo Y, Dai X, Xie M, Zhu Q-Z]
+doi: '10.1016/j.quaint.2016.07.036'
+publishDate: '2017'
+publication_types:
+  - '2'
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication: 'Quat. Int. 443, 58–69'
+publication_short: ''
+abstract: ''
+summary: ''
+featured: true
+url_pdf: ~
+url_code: ~
+url_dataset: ~
+url_poster: ~
+url_project: ~
+url_slides: ~
+url_source: ~
+url_video: ~
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+slides: ''
+---
+
