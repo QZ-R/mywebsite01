@@ -1,7 +1,9 @@
 ---
 title: Story of China
 author: Qing-Zeng Zhu
-date: '2020-11-14'
+date: '2021-03-12'
+categories:
+  - opinion
 slug: china-story
 lastmod: '2021-03-12'
 featured: no
