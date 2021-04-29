@@ -49,12 +49,12 @@ scale_color_manual(name = "",
 ```
 
 
-- [ ] stringr
-- [ ] purrr
+- [x] stringr
+- [x] purrr
 
 - [x] readxl
-- [ ] lubricate
-- [ ] glue
+- [x] lubricate
+- [x] glue
 
 [Tidymodels](https://www.tidymodels.org/) is definitely my next package to learn after all the packages above are checked.
 
