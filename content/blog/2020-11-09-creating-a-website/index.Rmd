@@ -17,6 +17,11 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
+output:
+  blogdown::html_page:
+    toc: true
+    number_sections: true
+    toc_depth: 1
 ---
 This is my first time to create a website with the help of R package [blogdown](https://bookdown.org/yihui/blogdown/) and [Hugo](https://gohugo.io/). It was not as hard as I have imagined in the beginning, but as time going on, I found it necessary to know a little bit about all the underlying technologies like HTML, CSS, Hugo templating language, and JavaScript. I will keep updating if I am making a progress and keep in touch!
 

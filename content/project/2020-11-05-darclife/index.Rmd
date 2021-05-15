@@ -3,7 +3,7 @@ title: DARCLIFE
 author: Qing-Zeng Zhu
 date: '2020-11-05'
 slug: darclife
-categories: []
+categories: [earth science]
 tags: [DARCLIFE]
 summary: ''
 authors: []
