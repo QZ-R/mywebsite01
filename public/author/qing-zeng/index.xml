@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qing-Zeng | Qing-Zeng Zhu | 朱庆增</title>
+    <link>https://qingzeng.rbind.io/author/qing-zeng/</link>
+      <atom:link href="https://qingzeng.rbind.io/author/qing-zeng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qing-Zeng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Qing-Zeng, 2021. This website is built with [blogdown](https://github.com/rstudio/blogdown) and [Academic theme](https://wowchemy.com/) of [Hugo](https://gohugo.io/).</copyright><lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://qingzeng.rbind.io/images/icon_hu856875c335bb566eef8afab3ea80367a_30050_512x512_fill_lanczos_center_2.png</url>
+      <title>Qing-Zeng</title>
+      <link>https://qingzeng.rbind.io/author/qing-zeng/</link>
+    </image>
+    
+    <item>
+      <title>Story of China</title>
+      <link>https://qingzeng.rbind.io/blog/china-story/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://qingzeng.rbind.io/blog/china-story/</guid>
+      <description>
+&lt;script src=&#34;https://qingzeng.rbind.io/blog/china-story/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Trade war, communist party, “Xinjiang concentration”, Covid-19, Huaiwei-5G, Tiktok…, When was your last time hearing something positive of China? Have you heard about China alleviating hundreds of millions of people out of extreme poverty, showing its incredible resilience in overcoming the effects of economic crisis, decisive implementation of rural revitalization strategy, achieving carbon neutrality before 2060 (keep in mind that China is still a developing country)…? Sometimes thing is not as simple as we think… People definitely need a more objective way, especially abandoning their ideology, to understand China, and the people living there. When we look at what is happening in the West, we know that their systems are facing unprecedented challenges. However, no offense, the West is still judging the rest of the world with its superiority and arrogance. Now, it is time to cooperate and embrace diversities of global governance in key issues such as climate change, green energy etc.&lt;/p&gt;
+&lt;p&gt;Here is a Youtube channel to recommend: &lt;a href=&#34;https://www.youtube.com/channel/UC1E5-wg_F4vFWWsP-CTcP1g&#34;&gt;National Committee on U.S.-China Relations&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/v1Nrgw37If0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Creating a website (keep updating)</title>
+      <link>https://qingzeng.rbind.io/blog/creating-a-website/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://qingzeng.rbind.io/blog/creating-a-website/</guid>
+      <description>
+&lt;script src=&#34;https://qingzeng.rbind.io/blog/creating-a-website/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;This is my first time to create a website with the help of R package &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;blogdown&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. It was not as hard as I have imagined in the beginning, but as time going on, I found it necessary to know a little bit about all the underlying technologies like HTML, CSS, Hugo templating language, and JavaScript. I will keep updating if I am making a progress and keep in touch!&lt;/p&gt;
+&lt;p&gt;Usefull resources:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://alison.rbind.io/&#34;&gt;Alison’s website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

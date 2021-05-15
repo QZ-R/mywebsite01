@@ -3,277 +3,558 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://qingzeng.rbind.io/blog/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/authors/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://qingzeng.rbind.io/categories/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/category/opinion/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/author/qing-zeng/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>https://qingzeng.rbind.io/blog/china-story/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/projects/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/contact/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/category/education/</loc>
     <lastmod>2020-11-14T10:01:01+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/r-packages-to-learn/</loc>
+    <loc>https://qingzeng.rbind.io/tag/isotope-tracer/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/tag/other/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/project/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/tag/r/</loc>
     <lastmod>2020-11-14T10:01:01+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/china-story/</loc>
-    <lastmod>2020-11-12T17:41:37+01:00</lastmod>
+    <loc>https://qingzeng.rbind.io/blog/r-packages-to-learn/</loc>
+    <lastmod>2020-11-14T10:01:01+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/isotope-tracer/</loc>
+    <loc>https://qingzeng.rbind.io/project/secondary-production-in-marine-sediments/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/other/</loc>
+    <loc>https://qingzeng.rbind.io/tags/</loc>
+    <lastmod>2020-11-14T10:01:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/project/the-ocean-floor-earth-s-uncharted-interface/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/secondary-production-in-marine-sediments/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/the-ocean-floor-earth-s-uncharted-interface/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/blogdown/</loc>
+    <loc>https://qingzeng.rbind.io/tag/blogdown/</loc>
     <lastmod>2020-11-09T23:00:53+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/chu-g/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/climate-reconstruction/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/creating-a-website/</loc>
+    <loc>https://qingzeng.rbind.io/blog/creating-a-website/</loc>
     <lastmod>2020-11-09T23:00:53+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/drought-cycles-over-the-last-8-200-years-recorded-in-maar-lake-twintaung-myanmar/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/hugo/</loc>
+    <loc>https://qingzeng.rbind.io/tag/hugo/</loc>
     <lastmod>2020-11-09T23:00:53+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/sein-k/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/su-y/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/sun-q/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/website/</loc>
+    <loc>https://qingzeng.rbind.io/tag/website/</loc>
     <lastmod>2020-11-09T23:00:53+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/xie-m/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/zaw-t/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/zhu-q-z/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/darclife/</loc>
+    <loc>https://qingzeng.rbind.io/tag/darclife/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/darclife/</loc>
+    <loc>https://qingzeng.rbind.io/project/darclife/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/publication-type/2/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://qingzeng.rbind.io/tag/archaeal-lipids/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/author/banfield-jf/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/author/birarda-g/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/qing-zeng-zhu/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/author/castelle-cj/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/author/elling-fj/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/author/elvert-m/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/author/hinrichs-k-u/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/author/holman-h-yn/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/author/ladd-b/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/author/lane-kr/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/publication/lipid-analysis-of-co2-rich-subsurface-aquifers-suggests-an-autotrophy-based-deep-biosphere-with-lysolipids-enriched-in-cpr-bacteria/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/author/probst-aj/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/publication_types/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/publication/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/author/ryan-mc/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/author/woyke-t/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/author/zhu-q-z/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/author/aromokeye-da/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://qingzeng.rbind.io/author/becker-kw/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://qingzeng.rbind.io/author/chu-g/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/tag/climate-reconstruction/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/coffinet-s/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/crump-mp/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/publication/drought-cycles-over-the-last-8-200-years-recorded-in-maar-lake-twintaung-myanmar/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/eickhorst-t/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/friedrich-mw/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/henkel-s/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/heuer-vb/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/tag/iron-aom/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/kasten-s/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/kulkarni-ac/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/lipp-js/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/meador-tb/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/muhlena-l/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/oni-oe/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/category/organic-geochemistry/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/publication/rates-and-microbial-players-of-iron-driven-anaerobic-oxidation-of-methane-in-methanic-marine-sediments/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/richter-heitmann-t/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/schnakenberg-a/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/schroder-j/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/sein-k/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/publication/2021-03-13-structural-elucidation-and-environmental-distributions-of-butanetriol-and-pentanetriol-dialkyl-glycerol-tetraethers-bdgts-and-pdgts/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/su-y/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/sun-q/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/taubner-h/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/wegener-g/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/wunder-l/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/xie-m./</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/yin-x/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/zaw-t/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/publication/an-oxygen-isotope-record-from-lake-xiarinur-in-inner-mongolia-since-the-last-deglaciation-and-its-implication-for-tropical-monsoon-change/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/wang-x/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/publication/alkenone-based-temperature-and-climate-reconstruction-during-the-last-deglaciation-at-lake-dangxiong-co-southwestern-tibetan-plateau/</loc>
+    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/bar-or-i/</loc>
+    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/ben-dov-e/</loc>
+    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/dai-x/</loc>
+    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/eckert-w/</loc>
+    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/publication/iron-coupled-anaerobic-oxidation-of-methane-performed-by-a-mixed-bacterial-archaeal-community-based-on-poorly-reactive-minerals/</loc>
+    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/kushmaro-a/</loc>
+    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/ling-y/</loc>
+    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/luo-y/</loc>
+    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/sivan-o/</loc>
+    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/vigderovich-h/</loc>
+    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/wang-h/</loc>
+    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/zheng-m/</loc>
+    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/liu-j/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/shan-y/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/shang-w/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/publication/the-role-of-the-asian-winter-monsoon-in-the-rapid-propagation-of-abrupt-climate-changes-during-the-last-deglaciation/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/publication/an-n-alkane-and-carbon-isotope-record-during-the-last-deglaciation-from-annually-laminated-sediment-in-lake-xiaolongwan-northeastern-china/</loc>
+    <lastmod>2016-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/lin-y/</loc>
+    <lastmod>2016-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/rioual-p/</loc>
+    <lastmod>2016-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/xu-d/</loc>
+    <lastmod>2016-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/zhu-q/</loc>
+    <lastmod>2016-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/publication/carbonate-varves-and-minor-element-variations-during-the-past-100-years-in-maar-lake-twintaung-myanmar/</loc>
+    <lastmod>2015-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/gu-z/</loc>
+    <lastmod>2015-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/sun-j/</loc>
+    <lastmod>2015-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/wang-l/</loc>
+    <lastmod>2015-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/publication/a-soil-water-extraction-method-with-accelerated-solvent-extraction-technique-for-stable-isotope-analysis-chinese-journal-of-analytical-chemistry/</loc>
+    <lastmod>2014-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/tag/method/</loc>
+    <lastmod>2014-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/su-z/</loc>
+    <lastmod>2014-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/wang-n/</loc>
+    <lastmod>2014-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/qing-zeng-zhu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qingzeng.rbind.io/author/song-j./</loc>
   </url>
   
 </urlset>

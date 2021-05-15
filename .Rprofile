@@ -9,5 +9,6 @@ options(
   blogdown.subdir = "blog",
   blogdown.yaml.empty = TRUE,
   blogdown.new_bundle = TRUE,
-  blogdown.title_case = TRUE
+  blogdown.title_case = TRUE,
+  blogdown.hugo.version = "0.78.0"
 )

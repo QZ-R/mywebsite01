@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | Qing-Zeng Zhu | 朱庆增</title>
+    <link>https://qingzeng.rbind.io/tag/r/</link>
+      <atom:link href="https://qingzeng.rbind.io/tag/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Qing-Zeng, 2021. This website is built with [blogdown](https://github.com/rstudio/blogdown) and [Academic theme](https://wowchemy.com/) of [Hugo](https://gohugo.io/).</copyright><lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://qingzeng.rbind.io/images/icon_hu856875c335bb566eef8afab3ea80367a_30050_512x512_fill_lanczos_center_2.png</url>
+      <title>R</title>
+      <link>https://qingzeng.rbind.io/tag/r/</link>
+    </image>
+    
+    <item>
+      <title>R packages and tips (keep updating)</title>
+      <link>https://qingzeng.rbind.io/blog/r-packages-to-learn/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://qingzeng.rbind.io/blog/r-packages-to-learn/</guid>
+      <description>
+&lt;script src=&#34;https://qingzeng.rbind.io/blog/r-packages-to-learn/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://www.tidyverse.org/&#34;&gt;Tidyverse&lt;/a&gt; is a revolutionary package. I started from learning base R by taking some courses in Uni two years ago. However, the more I learned, the more I felt confused because there were always two solutions to one R question in stack overflow. Since then I realized the existence of tidyverse, especially from dplyr, and gradually switched to be a tidyverse person.&lt;/p&gt;
+&lt;p&gt;This is the tidyverse family:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://qingzeng.rbind.io/blog/2020-11-14-r-packages-to-learn/tidyverse.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Here is the tidyverse learning material from &lt;a href=&#34;https://oliviergimenez.github.io/&#34;&gt;Dr. Olivier Gimenez&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;🍾🤪 Just updated my introduction to the &lt;a href=&#34;https://twitter.com/hashtag/tidyverse?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#tidyverse&lt;/a&gt; to manipulate &amp;amp; visualise data in &lt;a href=&#34;https://twitter.com/hashtag/rstat?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstat&lt;/a&gt; comments welcome 🤗 &lt;a href=&#34;https://twitter.com/hashtag/datascience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#datascience&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/davaviz?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#davaviz&lt;/a&gt; &lt;br&gt;Slides: &lt;a href=&#34;https://t.co/O1gKF6Eenh&#34;&gt;https://t.co/O1gKF6Eenh&lt;/a&gt;&lt;br&gt;Code: &lt;a href=&#34;https://t.co/As9bkXY9GZ&#34;&gt;https://t.co/As9bkXY9GZ&lt;/a&gt; &lt;a href=&#34;https://t.co/Uo7Hk9jj7d&#34;&gt;pic.twitter.com/Uo7Hk9jj7d&lt;/a&gt;&lt;/p&gt;&amp;mdash; Olivier Gimenez 🖖 (@oaggimenez) &lt;a href=&#34;https://twitter.com/oaggimenez/status/1319338464983289856?ref_src=twsrc%5Etfw&#34;&gt;October 22, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Here is the check and to-do list of my R (keep on updating):&lt;/p&gt;
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34; checked=&#34;&#34; /&gt;
+tibble&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34; checked=&#34;&#34; /&gt;
+readr&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34; checked=&#34;&#34; /&gt;
+dplyr&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34; checked=&#34;&#34; /&gt;
+tidyr&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34; checked=&#34;&#34; /&gt;
+forcats&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34; checked=&#34;&#34; /&gt;
+ggplot2 &lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;tip.1 use regular expression either on axis or legends if sub/superscript, Greek letters needed;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(tidyverse)
+library(scales)
+ylab(expression(delta^{13}*&amp;quot;C&amp;quot;[CO2]))
+scale_color_manual(name = &amp;quot;&amp;quot;,
+                   values = c(&amp;quot;#ff6600&amp;quot;, &amp;quot;#00b33c&amp;quot;),
+                   labels = c(expression(with ^{13}*&amp;quot;C lipids&amp;quot;), expression(without ^{13}*&amp;quot;C lipids&amp;quot;)))&lt;/code&gt;&lt;/pre&gt;
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;p&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34; checked=&#34;&#34; /&gt;
+stringr&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34; checked=&#34;&#34; /&gt;
+purrr&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34; checked=&#34;&#34; /&gt;
+readxl&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34; checked=&#34;&#34; /&gt;
+lubricate&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34; checked=&#34;&#34; /&gt;
+glue&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tidymodels.org/&#34;&gt;Tidymodels&lt;/a&gt; is definitely my next package to learn after all the packages above are checked.&lt;/p&gt;
+&lt;p&gt;By the way, I create this website not only to show my information in academics, but also want to share some insights or knowledge I have acquired, for example, &lt;a href=&#34;../creating-a-website/&#34;&gt;creating a website for free&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
