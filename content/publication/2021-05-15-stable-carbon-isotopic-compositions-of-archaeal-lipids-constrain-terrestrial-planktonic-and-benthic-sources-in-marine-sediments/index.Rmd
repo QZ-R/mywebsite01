@@ -1,6 +1,6 @@
 ---
-title: Stable Carbon Isotopic Compositions of Archaeal Lipids Constrain Terrestrial,
-  Planktonic, and Benthic Sources in Marine Sediments
+title: Stable carbon isotopic compositions of archaeal lipids constrain terrestrial,
+  planktonic, and benthic sources in marine sediments
 author: Qing-Zeng Zhu
 date: '2021-05-15'
 slug: stable-carbon-isotopic-compositions-of-archaeal-lipids-constrain-terrestrial-planktonic-and-benthic-sources-in-marine-sediments
