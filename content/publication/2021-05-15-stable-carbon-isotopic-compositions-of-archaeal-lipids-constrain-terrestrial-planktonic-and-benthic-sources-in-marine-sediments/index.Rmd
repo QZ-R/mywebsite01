@@ -9,7 +9,7 @@ tags: [archaeal lipids, stable isotopic composition]
 subtitle: ''
 summary: ''
 authors: [Zhu Q-Z, Elvert M, Meador TB, Becker KW, Heuer VB, Hinrichs K-U]
-doi: '10.1016/j.quascirev.2017.10.014'
+doi: '10.1016/j.gca.2021.04.037'
 publishDate: '2020'
 publication_types:
   - '2'
