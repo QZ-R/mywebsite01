@@ -25,8 +25,6 @@ output:
 ---
 This is my first time to create a website with the help of R package [blogdown](https://bookdown.org/yihui/blogdown/) and [Hugo](https://gohugo.io/). It was not as hard as I have imagined in the beginning, but as time going on, I found it necessary to know a little bit about all the underlying technologies like HTML, CSS, Hugo templating language, and JavaScript. I will keep updating if I am making a progress and keep in touch!
 
-Usefull resources:
-
-[Alison's website](https://alison.rbind.io/)
+Usefull resources: [Alison's website](https://alison.rbind.io/)
 
 
