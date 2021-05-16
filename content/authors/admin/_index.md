@@ -43,7 +43,7 @@ user_groups:
 
 ---
 
-Qing-Zeng Zhu is a Postdoc of organic geochemistry at the [Hinrichslab](https://www.marum.de/en/about-us/HinrichsLab-Home.html). His research interests include stable isotope probing (SIP), organic matter (OM) fate in marine sediments, and geomicrobiology. He is currently working on a project about secondary production and its role in reshaping the OM pool after the deposition from primary production in the ocean.
+Qing-Zeng Zhu is currently a Postdoc collaborating with Prof. Dr. Jack Middelburg and Prof. Dr. Kai-Uwe Hinrichs. He is now located at [Hinrichslab](https://www.marum.de/en/about-us/HinrichsLab-Home.html) in Bremen University. His research interests include stable isotope probing (SIP), organic matter (OM) fate in marine sediments, and geomicrobiology. He is currently working on a project about secondary production and its role in reshaping the OM pool after the deposition from primary production in the ocean.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
