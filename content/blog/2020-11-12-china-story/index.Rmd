@@ -4,6 +4,7 @@ author: Qing-Zeng Zhu
 date: '2021-03-12'
 categories:
   - opinion
+  - China
 slug: china-story
 authors:
   - Qing-Zeng
@@ -15,6 +16,10 @@ image:
   focal_point: ''
   preview_only: no
 ---
+{{% alert note %}}
+This blog provides only another perspective (`r emo::ji("book")`) and it is totally `r emo::ji("ok_hand")` if you do not agree
+{{% /alert %}}
+
 Trade war, communist party, "Xinjiang concentration", Covid-19, Huaiwei-5G, Tiktok..., When was your last time hearing something positive of China? Have you heard about China alleviating hundreds of millions of people out of extreme poverty, showing its incredible  resilience in overcoming the effects of economic crisis, decisive implementation of rural revitalization strategy, achieving carbon neutrality before 2060 (keep in mind that China is still a developing country)...? Sometimes thing is not as simple as we think... People definitely need a more objective way, especially abandoning their ideology, to understand China, and the people living there. When we look at what is happening in the West, we know that their systems are facing unprecedented challenges. However, no offense, the West is still judging the rest of the world with its superiority and arrogance. Now, it is time to cooperate and embrace diversities of global governance in key issues such as climate change, green energy etc. From now on, I will keep updating some down-to-earth stories about China and hopefully create a bridge for both sides to understand each other.
 
 ### Here is a Youtube channel to recommend: [National Committee on U.S.-China Relations](https://www.youtube.com/channel/UC1E5-wg_F4vFWWsP-CTcP1g)
@@ -22,6 +27,7 @@ Trade war, communist party, "Xinjiang concentration", Covid-19, Huaiwei-5G, Tikt
 `r htmltools::HTML("{{< youtube v1Nrgw37If0 >}}")`
 
 ### Bellow is a warm documentary about Daliangshan, one of the most poorest areas in China.
+
 
 `r htmltools::HTML("{{< youtube GgWZDvgW9OA >}}")`
 
