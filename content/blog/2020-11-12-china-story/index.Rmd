@@ -12,7 +12,7 @@ lastmod: '2021-05-15'
 featured: no
 draft: no
 image:
-  caption: ''
+  caption: '[Photo by Ying Wu from Unsplash](https://unsplash.com/photos/NsNRu6dfRds)'
   focal_point: ''
   preview_only: no
 ---
@@ -27,7 +27,6 @@ Trade war, communist party, "Xinjiang concentration", Covid-19, Huaiwei-5G, Tikt
 `r htmltools::HTML("{{< youtube v1Nrgw37If0 >}}")`
 
 ### Bellow is a warm documentary about Daliangshan, one of the most poorest areas in China.
-
 
 `r htmltools::HTML("{{< youtube GgWZDvgW9OA >}}")`
 
