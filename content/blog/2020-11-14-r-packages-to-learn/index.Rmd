@@ -7,6 +7,8 @@ categories:
 tags:
   - R
 slug: r-packages-to-learn
+authors:
+  - Qing-Zeng
 summary: R packages that help to bulid an easy career
 lastmod: '2020-11-14T10:01:01+01:00'
 featured: no
@@ -51,12 +53,11 @@ scale_color_manual(name = "",
 
 - [x] stringr
 - [x] purrr
-
 - [x] readxl
 - [x] lubricate
 - [x] glue
 
-[Tidymodels](https://www.tidymodels.org/) is definitely my next package to learn after all the packages above are checked.
+[Tidymodels](https://www.tidymodels.org/) is the next package to learn.
 
 By the way, I create this website not only to show my information in academics, but also want to share some insights or knowledge I have acquired, for example, [creating a website for free](../creating-a-website/).
 
