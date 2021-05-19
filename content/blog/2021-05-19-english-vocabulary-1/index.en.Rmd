@@ -7,13 +7,13 @@ categories:
   - education
 tags: []
 subtitle: ''
-summary: 'I am sharing some words and phrases from news or articles that I think are tricky. Hopefully it will be helpful to enrich your expressions whenever you want to discuss a certain topic or write a blog.'
+summary: 'As a English learner, I am sharing some words and phrases from news or articles that I think are tricky. Hopefully it will be helpful to enrich our expressions whenever we want to discuss a certain topic or write a blog.'
 authors: []
 lastmod: '2021-05-19T19:58:31+02:00'
 featured: no
 draft: no
 image:
-  caption: ''
+  caption: '[photo from Sara DIB](https://www.linkedin.com/pulse/lets-learn-english-sara-dib)'
   focal_point: ''
   preview_only: no
 projects: []
