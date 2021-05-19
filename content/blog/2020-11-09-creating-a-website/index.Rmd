@@ -12,9 +12,9 @@ slug: creating-a-website
 authors:
   - Qing-Zeng
 lastmod: '2020-11-09T23:00:53+01:00'
-featured: no
+featured: true
 image:
-  caption: ''
+  caption: '[Photo by Michael Harper from his website](https://mikeyharper.uk/migrating-to-blogdown/)'
   focal_point: ''
   preview_only: no
 output:

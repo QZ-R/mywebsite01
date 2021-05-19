@@ -11,7 +11,7 @@ authors:
   - Qing-Zeng
 summary: R packages that help to bulid an easy career
 lastmod: '2020-11-14T10:01:01+01:00'
-featured: no
+featured: true
 draft: no
 image:
   caption: ''
