@@ -160,7 +160,7 @@ He died of brain **hemorrhage**. (脑溢血)
 
 The election is just **ritual**. (仪式性的)
 
-NPC is often considered a **rubber stamp** that passes motions according to the wishes of China's top leaders. (橡皮章)
+This department is often considered a **rubber stamp** that passes motions according to the wishes of the top leaders. (橡皮章)
 
 The back tire was **punctured** by a piece of glass. (爆胎)
 
@@ -193,7 +193,8 @@ Produce a **virtuous circle**. (良性循环)
 <p style="color:Tomato;">The economic base determines the superstructure.</p>
 
 During Stalin times, people could even inform against their parents. (告发)
-In former times, the Czar was the king of Russia.
+
+In former times, the Czar was the king of Russia (沙皇).
 
 China urges the US to correct unfair anti-dumping duties on steel products. (反倾销)
 
@@ -207,7 +208,7 @@ Young people buy luxurious bags only to **satisfy their vanity**. (满足虚荣�
 
 I am **skeptical** about your experimental results. (怀疑) Others here are more skeptical about the chances of justice being done.
 
-The **proton and heavy-ion treatment** can more precisely deliver the radiation to the tumor and has fewer side effects when compared with traditional **radiotherapy**. (化疗)
+The **proton and heavy-ion treatment** (离子化疗) can more precisely deliver the radiation to the tumor and has fewer side effects when compared with traditional **radiotherapy**. (化疗)
 
 Runoff from fertilizers in coastal areas causes **eutrophication** of the water column, leading to oceanic dead zones. (富营养化)
 
